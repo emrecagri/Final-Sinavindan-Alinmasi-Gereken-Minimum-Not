@@ -1,0 +1,6 @@
+C:\Users\Home-pc2\Desktop\FinaldenAlmanGerekenMinimumNot\FinaldenAlmanGerekenMinimumNot\bin\Debug\FinaldenAlmanGerekenMinimumNot.exe.config
+C:\Users\Home-pc2\Desktop\FinaldenAlmanGerekenMinimumNot\FinaldenAlmanGerekenMinimumNot\bin\Debug\FinaldenAlmanGerekenMinimumNot.exe
+C:\Users\Home-pc2\Desktop\FinaldenAlmanGerekenMinimumNot\FinaldenAlmanGerekenMinimumNot\bin\Debug\FinaldenAlmanGerekenMinimumNot.pdb
+C:\Users\Home-pc2\Desktop\FinaldenAlmanGerekenMinimumNot\FinaldenAlmanGerekenMinimumNot\obj\Debug\FinaldenAlmanGerekenMinimumNot.csproj.CoreCompileInputs.cache
+C:\Users\Home-pc2\Desktop\FinaldenAlmanGerekenMinimumNot\FinaldenAlmanGerekenMinimumNot\obj\Debug\FinaldenAlmanGerekenMinimumNot.exe
+C:\Users\Home-pc2\Desktop\FinaldenAlmanGerekenMinimumNot\FinaldenAlmanGerekenMinimumNot\obj\Debug\FinaldenAlmanGerekenMinimumNot.pdb
